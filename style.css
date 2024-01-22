@@ -1,6 +1,6 @@
 /* Tag selector to select the 'body' element */
 body {
-  background-color: #00b3e6; /* Setting background color */
+  background: #00b3e6; /* Setting background color */
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
@@ -8,7 +8,7 @@ div {
   width: 700px; /* Setting width */
   margin: auto; /* Setting margin */
   font-family: 'Helvetica Neue'; /* Setting font family */
-  background-color: white; /* Setting background color */
+  background: white; /* Setting background color */
   padding: 30px; /* Setting padding */
 }
 
